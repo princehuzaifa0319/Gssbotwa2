@@ -8,7 +8,7 @@ global.linkGroup = 'https://chat.whatsapp.com/E3PWxdvLc7ZCp1ExOCkEGp'
 global.apikey = 'bf2d2cf29b3edc604b447983';
 global.ownername = "𓆩𓏲ིྀłł𝐮፝֟͜͡͡ȥɑ͢𝖎ƒɑ͢𓆪 𝐵𝛨𝛥𝛪";
 global.owner = ['923172290399'];
-global.premium = ['917050906659'];
+global.premium = ['923172290399'];
 global.packname = "𓄂𓆰卄𝙪z𝙖͢͠ɪғʌꦿ
 ⟵кɪɴɢ⓵⟶𓆪;
 global.author = "𝐆𝐒𝐒 𝚩𝚯𝚻𝐖𝚫";
