@@ -1,19 +1,18 @@
-const fs = require('fs');
-const chalk = require('chalk');
+ chalk = require('chalk');
 
 
 // Other
-global.link = 'https://whatsapp.com/channel/0029VaWbgfPGehEIyfZ4Oz3t'
-global.linkGroup = 'https://chat.whatsapp.com/LvRoctC7BlpABLLFQl1Cdy'
+global.link = 'https://whatsapp.com/channel/0029VaWJMi3GehEE9e1YsI1S'
+global.linkGroup = 'https://chat.whatsapp.com/E3PWxdvLc7ZCp1ExOCkEGp'
 
 global.apikey = 'bf2d2cf29b3edc604b447983';
-global.ownername = "𓄂𓆰卄𝙪z𝙖͢͠ɪғʌꦿ
-⟵кɪɴɢ⓵⟶𓆪";
-global.owner = ['923193401810'];
+global.ownername = "𓆩𓏲ིྀłł𝐮፝֟͜͡͡ȥɑ͢𝖎ƒɑ͢𓆪 𝐵𝛨𝛥𝛪";
+global.owner = ['923172290399'];
 global.premium = ['917050906659'];
-global.packname = "𝚜𝚝𝚒𝚌𝚔𝚎𝚛 𝚋𝚢";
+global.packname = "𓄂𓆰卄𝙪z𝙖͢͠ɪғʌꦿ
+⟵кɪɴɢ⓵⟶𓆪;
 global.author = "𝐆𝐒𝐒 𝚩𝚯𝚻𝐖𝚫";
-global.sessionName = 'Ethix-MD&Yz8UXWga';
+global.sessionName = 'session';
 global.prefa = [".", "!", "/", "?"];
 global.typemenu = "v1"
 global.menuType = "2"
